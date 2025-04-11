@@ -1,22 +1,14 @@
-### Hi there! eu sou o João 👋
+### 👋 Hi there! i'm João 
 
-### Full-stack developer
+## About Me
+
+FullStack developer, I have hands-on experience with different technologies, and I’m always open to exploring new tools and paradigms that best suit each challenge.
+
+Currently, I’ve been working mainly with technologies like Node.js, Golang, TypeScript, React, Next.js, NestJS, and AWS. Always excited to adapt and grow within different stacks and environments.
+
+I also enjoy experimenting with dApps and smart contract development with solidity. Constantly tuned into new crypto projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaops3&layout=compact)](https://github.com/joaops3/github-readme-stats)
-
-## 🌟 Technologies:
-
-<div style="display: inline_block"> </br> 
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />     
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />   
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
-  <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-            
-</div>
 
 ## ⚡ Languages:
 
